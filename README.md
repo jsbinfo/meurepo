@@ -1,3 +1,3 @@
 # meurepo
 ## repositório pessoal
-Faz parte do meu treinamento na Digio
+Faz parte do meu treinamento na DIO.
